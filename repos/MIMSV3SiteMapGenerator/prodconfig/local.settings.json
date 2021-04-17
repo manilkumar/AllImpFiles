@@ -1,0 +1,29 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "ConnectionStrings": {
+    "SG": "Data Source=D:\\home\\data\\SQLite\\SG.Search.Sqlite.db;",
+    "MY": "Data Source=D:\\home\\data\\SQLite\\MY.Search.Sqlite.db;",
+    "VN": "Data Source=D:\\home\\data\\SQLite\\VN.Search.Sqlite.db;"
+  },
+  "COUNTRY_DB_AVAILABILITY": "VN[Vietnam],MM[Myanmar],HK[Hongkong],IN[India],ID[Indonesia],MY[Malaysia],PH[Philippines],SG[Singapore],TH[Thailand]", //VN[Vietnam],MM[Myanmar],HK[Hongkong],IN[India],ID[Indonesia],MY[Malaysia],PH[Philippines],SG[Singapore],TH[Thailand]
+  "DISEASE_PORTAL_COUNTRIES": "VN,HK,ID,MY,PH,SG,TH", //VN,HK,ID,MY,PH,SG,TH
+  "OutputDirectory": "D:\\home\\Output",
+  "UrlBase": "http://mpf-uatmimsweb.azurewebsites.net/" ,//mpf-uatmimsweb.azurewebsites.net/
+  "SitemapFileNodeLimit": 40000,
+  "GenerateDiseasePortal": "true",
+  "FlatFileName": "urls_{COUNTRY}.txt",
+  "ForCacheGeneration": "false",
+  "GenerateCompany": "true",
+  "PatientMedInfoCountries": "SG,MY",
+  "FullMonographSectionCountries": "SG,MY,HK,TH,PH,ID,IN,MM", //"SG,MY,HK,TH,PH,ID,IN,MM"
+  "AzureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=uatmimsfuncst;AccountKey=UVf1pk5u6tF4YZYDv+mJskV14j/JGDkDprJn1PW3c1dKso/nJX+meSo1yQh2Se5Cbnou1jmf9HBcXEfNV3yh5A==;EndpointSuffix=core.windows.net",
+  "AzureStorageUserName": "uat-mimsv3\\$uat-mimsv3",
+  "AzureStoragePassword": "itvjScDDvl03ZJ8cqoBQ3WZ5ZsfnDdcTsu4LDPcMyDTGy34oBxxCqo4518jm",
+  "AzureFTPBaseURL": "ftp://waws-prod-sg1-039.ftp.azurewebsites.windows.net/site/wwwroot/"
+
+
+}

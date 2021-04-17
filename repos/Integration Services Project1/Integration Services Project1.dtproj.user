@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <AssessmentRuleSuppressionSetting />
+        <UseWinAuth>false</UseWinAuth>
+        <WinAuthUserName />
+        <WinAuthDomain />
+        <ServerName>ANIL</ServerName>
+        <PathOnServer>/SSISDB/fdfdsfd/Integration Services Project1</PathOnServer>
+        <StartObjectID>Package2.dtsx</StartObjectID>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>{62BAC7CF-EEAC-4E2E-A797-17F3E743A466}</Id>
+            <Name>{62BAC7CF-EEAC-4E2E-A797-17F3E743A466}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeXJuxPegfESFY2FbZZ75+QAAAABOAAAAewA2ADIAQgBBAEMANwBDAEYALQBFAEUAQQBDAC0ANABFADIARQAtAEEANwA5ADcALQAxADcARgAzAEUANwA0ADMAQQA0ADYANgB9AAAAEGYAAAABAAAgAAAAJ6SVI9UqfUttQzEfjLCFLuwGw//CPHO/oCAkhaZIlwcAAAAADoAAAAACAAAgAAAAs1Dpgqvg4CnViSY3Xwq8FOCTKbYhmHq8bvUZKgJpM5cQAAAAru4Ee7JlfRZtmFZcWuHfd0AAAACnlfoPU/5BY8GPFr+ZmJo9IV47jIY+6Pz6KqEvzW/RJ+v/6X7/QVMdYAOVmnJMqdvyVSsE0Pj2Jd7zc73IhsGM</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>{62BAC7CF-EEAC-4E2E-A797-17F3E743A466}</Id>
+            <Name>{62BAC7CF-EEAC-4E2E-A797-17F3E743A466}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeXJuxPegfESFY2FbZZ75+QAAAABOAAAAewA2ADIAQgBBAEMANwBDAEYALQBFAEUAQQBDAC0ANABFADIARQAtAEEANwA5ADcALQAxADcARgAzAEUANwA0ADMAQQA0ADYANgB9AAAAEGYAAAABAAAgAAAAbHYiDFzmRcgZJqUnFxwITWlZImkR14G5NT7fLjJZu5IAAAAADoAAAAACAAAgAAAAyUGakukiBIi28U/3biPZf+JbbbPxIew327KbcyQr0BIgAAAAdDT1UZUYPY6Ba849Gv1pspP6oR//GOCOmxx1qw5p2E9AAAAAqPeY5jbGBCEIzvFZkn6sYbjhQ5yswJJdzLvTgFetEZ01RL2oH2c9YqeRgztTCGSF9oUYzDJPdV+tlTyx+cFzBA==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+        <ParameterConfigurationSensitiveValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2020-09-17T11:08:33.8034882Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationSensitiveValues>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>

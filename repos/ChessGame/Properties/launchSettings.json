@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChessGame": {
+      "commandName": "Project",
+      "commandLineArgs": "Diagonal false"
+    }
+  }
+}

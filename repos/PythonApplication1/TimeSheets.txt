@@ -1,0 +1,40 @@
+|Employee      : 23324025 Karthik M                                              |
+|Administrator :                                                                 |
+|Personnel area : INDA          Personnel subarea  : EGI_BANGALORE               |
+|Org. unit      : BMAS SA NDO   Employee subgroup  : Reg Monthly salaried        |
+|Cost center    : 2828084052    WS rule            : NORM                        |
+|Day Text                |          Recorded | Att. | Abs. |      | Target hours |
+|                Weekly total                | 0,00 | 0,00 |      |     0,00     |
+|03 Mo Productive Hours  |              8.50 | 8,50 | 0,00 |      |     8,50     |
+|04 Tu Productive Hours  |              8.50 | 8,50 | 0,00 |      |     8,50     |
+|05 We Productive Hours  |              8.50 | 8,50 | 0,00 |      |     8,50     |
+|06 Th Productive Hours  |              2.00 |      |      |      |              |
+|      Productive Hours  |              6.50 | 8,50 | 0,00 |      |     8,50     |
+|07 Fr Productive Hours  |              3.00 |      |      |      |              |
+|      Productive Hours  |              5.50 | 8,50 | 0,00 |      |     8,50     |
+|                Weekly total                |42,50 | 0,00 |      |    42,50     |
+|        Time Types       |   Number    |        Time types        |   Number    |
+|Planned target hours     |    42,50    |Absence                   |     0,00    |
+|Attendance               |    42,50    |Time in Lieu              |     0,00    |
+|Overtime                 |     0,00    |                          |             |
+|                         |             |                          |             |
+|                         |             |                          |             |
+|From      |To        | Quota                         |  Number                  |
+|01.01.2019|31.12.9999| 10 ECO Weekday(night)/ExtdHr  | *9,00000                 |
+|01.01.2019|31.12.9999| 20 ECO Hldy(day)/Wknd Oddhrs  | *9,00000                 |
+|01.01.2019|31.12.9999| 30 ECO Hldy(night)/WkndNight  | *9,00000                 |
+|01.01.2019|31.12.9999| 50 Night shift allowance      | *9,00000                 |
+|01.01.2019|31.12.9999| 60 Working in odd hours shif  | *9,00000                 |
+|01.01.2019|31.12.9999| 70 Holiday Payout             | *9,00000                 |
+|From      |To        | Quota                         | Number     | Remaining   |
+|01.01.2020|31.12.2020| 20 Casual leave               |      12,00 |      12,00  |
+|01.01.2020|31.12.2020| 21 Basic Volunteer Work       |       8,50 |       8,50  |
+|01.01.2020|31.12.2020| 30 Earned leave               |      12,50 |      12,50  |
+|01.01.2020|31.12.2020| 40 Previous years             |      42,50 |      42,50  |
+|23.06.2016|31.12.9999| 70 Special leave              |       3,00 |       3,00  |
+|01.11.2019|31.12.2020| 90 Compensatory off           |       1,00 |       0,00  |
+|01.12.2019|31.12.2020| 90 Compensatory off           |       1,00 |       0,00  |
+|01.01.2020|31.12.2020| 90 Compensatory off           |       4,00 |       0,00  |
+|01.04.2020|31.12.2020| 90 Compensatory off           |      13,50 |      12,50  |
+|01.06.2020|31.12.2020| 90 Compensatory off           |       0,50 |       0,50  |
+|01.07.2020|31.12.2020| 90 Compensatory off           |       0,50 |       0,50  |
